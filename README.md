@@ -11,6 +11,9 @@ http://bottlepy.org/
 ##### CherryPy
 CherryPy is a pythonic, object-oriented web framework. http://www.cherrypy.org/
 
+##### Cyclone
+Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol. http://cyclone.io/
+
 ##### Flask
 Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 http://flask.pocoo.org/
