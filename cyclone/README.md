@@ -5,7 +5,7 @@ Cyclone is a web server framework for Python, that implements the Tornado API as
 ```
 virtualenv env
 source env/bin/activate
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Start The Server

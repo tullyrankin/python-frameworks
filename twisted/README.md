@@ -5,7 +5,7 @@ Twisted is an event-driven networking engine written in Python and licensed unde
 ```
 virtualenv env
 source env/bin/activate
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Start The Server

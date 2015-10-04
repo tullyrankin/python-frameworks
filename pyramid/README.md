@@ -5,7 +5,7 @@ Pyramid is a small, fast, down-to-earth Python web framework. It is developed as
 ```
 virtualenv env
 source env/bin/activate
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Start The Server
