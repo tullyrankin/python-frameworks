@@ -39,6 +39,16 @@ Tornado is a Python web framework and asynchronous networking library, originall
 
 http://www.tornadoweb.org/en/stable/
 
+##### TurboGears2
+TurboGears 2 is a reinvention of the TurboGears project to take advantage of
+new components, and to provide a fully customizable WSGI (Web Server Gateway
+Interface) stack. From the beginning TurboGears was designed to be a Full Stack
+framework built from best-of-breed components. New components have been
+released which improved on the ones in the original TGstack, and the Python web
+world has been increasingly designed around WSGI.
+
+http://www.turbogears.org/
+
 ##### Twisted
 Twisted is an event-driven networking engine written in Python and licensed under the open source MIT license. Twisted runs on Python 2 and an ever growing subset also works with Python 3.
 
