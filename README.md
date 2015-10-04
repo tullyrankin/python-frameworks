@@ -24,6 +24,11 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 https://www.djangoproject.com/
 
+##### Falcon
+Falcon is a ridiculously fast, minimalist Python web framework for building cloud APIs and app backends.
+
+http://falconframework.org/
+
 ##### Flask
 Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 
