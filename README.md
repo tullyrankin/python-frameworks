@@ -34,6 +34,11 @@ Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intenti
 
 http://flask.pocoo.org/
 
+##### Muffin
+Muffin is a fast, simple and asyncronous web-framework for Python 3.
+
+https://github.com/klen/muffin
+
 ##### Pyramid
 Pyramid is a small, fast, down-to-earth Python web framework. It is developed as part of the Pylons Project. It is licensed under a BSD-like license.
 
