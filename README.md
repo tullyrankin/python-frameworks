@@ -34,6 +34,15 @@ Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intenti
 
 http://flask.pocoo.org/
 
+##### Klein
+Klein is a micro-framework for developing production-ready web services with
+Python. It is 'micro' in that it has an incredibly small API similar to Bottle
+and Flask. It is not 'micro' in that it depends on things outside the standard
+library. This is primarily because it is built on widely used and well tested
+components like Werkzeug and Twisted.
+
+https://github.com/twisted/klein
+
 ##### Muffin
 Muffin is a fast, simple and asyncronous web-framework for Python 3.
 
